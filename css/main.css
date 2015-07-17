@@ -1,0 +1,111 @@
+nav {
+	margin: 0px;
+	height: 50px;
+	width: 100%;
+	background-color: transparent;
+	position:fixed;
+
+
+}
+nav ul {
+	margin: 0;
+	list-style: none;
+}
+nav ul li {
+	display: inline-block;
+}
+nav ul li a {
+	text-decoration: none;
+	display: inline-block;
+	margin: auto 10px;
+	line-height: 50px;
+	color: #fff;
+}
+header {
+	background: rgba(0, 0, 0, 0.4);
+}
+.logo {
+	float: left;
+}
+.nav-right {
+	float: right;
+}
+.banner {
+	height: 720px;
+	background-color: transparent;
+	text-align: center;
+	color: #fff;
+}
+h2 {
+	margin: 0 auto;
+}
+.meowstar {
+	width: 30%;
+	margin: 0 auto;
+	position: relative;
+	top: 200px;
+	letter-spacing: 2px;
+}
+.meowstar p {
+	padding: 40px;
+	line-height: 27px;
+
+}
+.meowstar .hr {
+	margin: 0;
+	height: 2px;
+	background-color: #fff;
+}
+.more {
+	margin: 0 auto;
+	position: relative;
+	top: 340px;
+}
+.content .member {
+	height: 380px;
+	background-color: #666666;
+
+}
+.member h2 {
+	text-align: center;
+}
+.img-wrapper {
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+}
+.member span {
+		display: inline-block;
+		margin: 0 auto;
+		margin-left: 45px;
+
+}
+img {
+	margin: 0 auto;
+	width: 215px;
+	border-radius:50%;
+	border: 0px none;
+}
+.name{
+	margin: 0 auto;
+	margin-left: 79px;
+	letter-spacing: 2px;
+}
+footer {
+	background: #333;
+	height: 100px;
+}
+.copy {
+	position: relative;
+	top: 40px;
+	text-align: center;
+	padding-bottom: 20px; 
+}
+.big-box {
+	background: #444 url(http://dl.bizhi.sogou.com/images/2012/02/04/94596.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center; 
+	color: #fff;
+}
